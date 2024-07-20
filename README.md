@@ -1,6 +1,6 @@
 # Heart Disease Prediction using Logistic Regression
 
-This repository contains the code and dataset required for the Heart Disease Prediction Machine Learning Model which predicts whether a person has a healthy heart or has a heart disease using Logistic Regression Model. It involves data pre-processing , feature selection, data splitting and model training and model evaluation. The goal is to create a reliable tool for early diagnosis and preventive healthcare.
+This repository contains the code and dataset required for the Heart Disease Prediction Machine Learning Model which predicts whether a person has a healthy heart or has a heart disease using Logistic Regression Model. It involves data pre-processing , feature selection, data splitting, model training and model evaluation. The goal is to create a reliable tool for early diagnosis and preventive healthcare.
 
 ## Project workflow
 - Loading and exploring the dataset
