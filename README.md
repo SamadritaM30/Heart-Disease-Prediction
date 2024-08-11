@@ -16,7 +16,7 @@ This repository contains the code and dataset required for the Heart Disease Pre
 The trained model achieved the following performance metrics:
 
 - Accuracy of training data: 0.85 
-- Accuracy of training data: 0.82
+- Accuracy of testing data: 0.82
 
 ## Requirements
 - Python 3.x
